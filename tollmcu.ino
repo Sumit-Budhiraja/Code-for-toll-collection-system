@@ -95,7 +95,7 @@ void loop()
   if (content.substring(1) == "FA E9 D4 83") //change UID of the card that you want to give access
   {
     //Serial.println(" Access Granted ");
-    //Serial.println(" Welcome Mr. Navneet Budhiraja");
+    //Serial.println(" Welcome Mr. Sumit Budhiraja");
     //delay(1000);
     //Serial.println(" Have FUN ");
     //Serial.println();
